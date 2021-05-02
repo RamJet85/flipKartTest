@@ -25,7 +25,7 @@ public class LoginPage extends BasePage {
 	By hovor = By.xpath("(//div[@class='_28p97w'])[position()='1']");
 	By Profile = By.xpath("//div[text()='My Profile']");
 	
-	
+	//text impact
 	public LoginPage(WebDriver driver){
 		
 		this.driver =driver;
